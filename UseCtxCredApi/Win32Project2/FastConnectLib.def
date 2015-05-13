@@ -1,0 +1,5 @@
+LIBRARY	"FastConnectLib"
+
+EXPORTS
+  LogoffSsoUser PRIVATE
+  LogonSsoUser PRIVATE
